@@ -1,0 +1,13 @@
+*~
+/build/
+/data/
+mininet/
+*.zip
+
+# autotools & autoconf
+/aclocal.m4
+/autom4te.cache/
+/build-aux/
+/config.h.in
+/configure
+Makefile.in
